@@ -4,7 +4,7 @@
 # Strings
 first_name = "Bro"
 food = "pizza"
-email = "bro123@fake.com
+email = "bro123@fake.com"
 
 # Integers
 age = 25
@@ -14,5 +14,5 @@ num_students = 30
 # Float
 price = 10.99
 
-print(f"The price is {price})
+print(f"The price is {price}")
 
