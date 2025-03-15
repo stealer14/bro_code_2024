@@ -2,6 +2,7 @@
 coursework on brocode 2024 python tutorial
 link: https://www.youtube.com/watch?v=ix9cRaBkVe0&t=624s
 
+github link: https://github.com/stealer14/bro_code_2024.git
 Content:
      [⭐ = project]
 #1   (00:00:00) python tutorial for beginners 🐍
